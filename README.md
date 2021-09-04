@@ -118,3 +118,7 @@ else:
 
 ## CITAÇÕES
 Clique no link acima "EMOJIS" para ver os emojis que a @ikatyang separou
+
+
+
+# PARA MAIS, [ACESSE O MANUAL DO MARKDOWN PARA GITHUB](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf) DO @gustavoguanabara
